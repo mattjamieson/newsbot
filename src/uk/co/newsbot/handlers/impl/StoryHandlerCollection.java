@@ -8,7 +8,7 @@ import uk.co.newsbot.handlers.StoryHandler;
 import de.nava.informa.core.ItemIF;
 
 /**
- * StoryHandlerIF implementation to publish stories to
+ * StoryHandler implementation to publish stories to
  * multiple places (via other StoryHandlers).
  */
 public class StoryHandlerCollection implements StoryHandler

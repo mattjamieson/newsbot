@@ -1,3 +1,5 @@
 uk.co.newsbot
+uk.co.newsbot.formatters
 uk.co.newsbot.handlers
+uk.co.newsbot.handlers.impl
 uk.co.newsbot.test
